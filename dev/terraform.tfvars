@@ -1,0 +1,6 @@
+rgname                 = "dev-tf-rg"
+service_principal_name = "dev-tf-spn"
+keyvault_name          = "dev-tf-kv-101"
+SUB_ID = "b75cea1b-f62a-44ce-9a24-30995b4a83a6"
+cluster_name = "dev-tfaks-cluster"
+node_pool_name = "devaksnp"
